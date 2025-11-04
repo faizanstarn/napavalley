@@ -1,7 +1,6 @@
 # napavalley
   <meta name="google-site-verification" content="tOt32z-0xa0Q78V_q6b7ng_NlTE8At6iMy9PbwMgOP8" />
-  <title>Napa Valley VIP Limo | Luxury Car & Limo Service in Wine Country</title>
-</head>
+  </head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
