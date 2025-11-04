@@ -1,4 +1,80 @@
 # napavalley
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="robots" content="index, follow" />
+  <meta name="description" content="Experience luxury with Napa Valley VIP Limo—premium Napa limo service, airport transportation, anniversary rides, and corporate travel. Book your elegant ride today!">
+  <meta name="author" content="Napa Valley VIP Limo" />
+  <meta name="google-site-verification" content="tOt32z-0xa0Q78V_q6b7ng_NlTE8At6iMy9PbwMgOP8" />
+  <title>Napa Valley VIP Limo | Luxury Car & Limo Service in Wine Country</title>
+  <style>
+    :root {
+      --primary: #8B0000; /* Deep wine red */
+      --secondary: #D4AF37; /* Gold accent */
+      --light: #F8F4E9; /* Creamy background */
+      --text: #333333;
+      --shadow: rgba(0,0,0,0.1);
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--light);
+      color: var(--text);
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(to right, var(--primary), #5a0000);
+      color: white;
+      text-align: center;
+      padding: 30px 20px;
+      box-shadow: 0 4px 10px var(--shadow);
+    }
+    h1 {
+      font-size: 2.8rem;
+      margin: 0;
+      text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+    }
+    .container {
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: var(--primary);
+      border-bottom: 2px solid var(--secondary);
+      padding-bottom: 8px;
+      margin-top: 30px;
+    }
+    p {
+      margin-bottom: 18px;
+      font-size: 1.05rem;
+    }
+    a {
+      color: var(--primary);
+      font-weight: 600;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+      color: #5a0000;
+    }
+    .contact-box {
+      background-color: #fff;
+      border-left: 4px solid var(--secondary);
+      padding: 20px;
+      margin-top: 30px;
+      box-shadow: 0 2px 8px var(--shadow);
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-bottom: 20px;
+      color: #666;
+      font-size: 0.95rem;
+    }
+  </style>
+</head>
 <!DOCTYPE html>
 <html lang="en">
 <head>
